@@ -10,7 +10,7 @@
 **Daily Scrum**    
 - Purpose: To inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work. It is not a status report but rather a plan for the day.
 - Timebox: 15 m
-- Who attends: Scrum Team, Stakeholders (optional and only listen)   
+- Who attends: Developers of the Scrum Team, Product Owner (optional but recommended), Scrum Master (optional but recommended)   
 - Output: Days-worth of tasks for each team member, blockers and impediments preventing the team from making progress towards the Sprint goal, questions
 
 **Product Backlog Refinement**
@@ -40,3 +40,6 @@
 **Sprint**     
 - Timebox: 2 weeks
 - Output: Potentially shippable increment. The Sprint includes all the work necessary to achieve the Product Goal.
+
+**Sprint 0 Scrum Board**
+- https://app.zenhub.com/workspaces/raft-scrum-board-sprint-0-5fcc6dbe631e4100128a9ebe/board
