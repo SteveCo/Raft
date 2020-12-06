@@ -1,4 +1,6 @@
-# Kickoff Agenda
+# Revamp Kickoff Agenda
+
+**Product Goal: Revamping our legacy system into a new web based application**
 
 | **Preperation**  | **Day 1**          | **Day 2**          | **Day 3**        | **Day 4**        | **Day 5**              |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- | ----------------       |
@@ -38,7 +40,7 @@
 - Output: Action items for improvement
 
 **Sprint**     
-- Purpose: A timeboxed period of work at the end of which the Scrum Team delivers a potentially releasable product increment that coincides with the Sprint Goal.
+- Purpose: A timeboxed period of work at the end of which the Scrum Team delivers a potentially releasable product increment that coincides with the Sprint Goal and aligns with the Product Goal.
 - Timebox: 2 weeks
 - Output: Potentially shippable increment. The Sprint includes all the work necessary to achieve the Product Goal.
 - Potentially releasable product increment
