@@ -7,6 +7,8 @@
 | Business Context | Team Introductions | Working Agreements | Story Storming   | Story Mapping    | Re-plan Plan           |
 | Stakeholder Map  | Product Vision     | Risks & Enablers   | Roadmapping      | Sizing           | Planning Retrospective |
 
+**Note: Scrum Team consists of Scrum Master (aka Product Manager), Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, and Product Owner.**
+
 # Scrum Events
 
 **Daily Scrum**    
@@ -44,8 +46,6 @@
 - Timebox: 2 weeks
 - Output: Potentially shippable increment. The Sprint includes all the work necessary to achieve the Product Goal.
 - Potentially releasable product increment
-
-**Note: Scrum Team consists of Scrum Master (aka Product Manager), Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, and Product Owner.**
 
 **Sprint 0 Scrum Board**
 - https://app.zenhub.com/workspaces/raft-scrum-board-sprint-0-5fcc6dbe631e4100128a9ebe/board
