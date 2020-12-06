@@ -14,13 +14,13 @@
 - Output: Days-worth of tasks for each team member, blockers and impediments preventing the team from making progress towards the Sprint goal, questions
 
 **Product Backlog Refinement**
-- Purpose: To prepare the near term Product Backlog Items for implementation in future Sprints 
+- Purpose: To prepare the near term Product Backlog Items for implementation in future Sprints.
 - Timebox: 1 h
 - Who Attends: Scrum Team
 - Output: Sized and ranked backlog of stories for the upcoming sprints. Action items needed to prepare for next sprint.
 
 **Sprint Planning** 
-- Purpose: To determine the Sprint Goal and the work that the Team forecasts to accomplish during the Sprint
+- Purpose: To determine the Sprint Goal and the work that the Team forecasts to accomplish during the Sprint.
 - Timebox: 4 h
 - Who Attends: Scrum Team
 - Output: Sprint Backlog, Sprint Goal
@@ -32,14 +32,18 @@
 - Output: Revised Product Backlog. The revised Product Backlog consists of the probable Product Backlog items for the next Sprint.
 
 **Sprint Retrospective** 
-- Purpose: To review what went right, what was challenging and the opportunities for improvement from the current sprint
+- Purpose: To review what went right, what was challenging and the opportunities for improvement from the current sprint.
 - Timebox: 1.5 h
 - Who Attends: Scrum Team
 - Output: Action items for improvement
 
 **Sprint**     
+- Purpose: A timeboxed period of work at the end of which the Scrum Team delivers a potentially releasable product increment that coincides with the Sprint Goal.
 - Timebox: 2 weeks
 - Output: Potentially shippable increment. The Sprint includes all the work necessary to achieve the Product Goal.
+- Potentially releasable product increment
+
+**Note: Scrum Team consists of Scrum Master (aka Product Manager), Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist, and Product Owner.**
 
 **Sprint 0 Scrum Board**
 - https://app.zenhub.com/workspaces/raft-scrum-board-sprint-0-5fcc6dbe631e4100128a9ebe/board
