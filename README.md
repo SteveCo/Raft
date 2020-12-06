@@ -1,4 +1,4 @@
-# Revamp Kickoff Agenda
+# Web Modernization Kickoff Agenda
 
 **Product Goal: Revamping our legacy system into a new web based application**
 
