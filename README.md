@@ -44,8 +44,7 @@
 **Sprint**     
 - Purpose: A timeboxed period of work at the end of which the Scrum Team delivers a potentially releasable product increment that coincides with the Sprint Goal and aligns with the Product Goal.
 - Timebox: 2 weeks
-- Output: Potentially shippable increment. The Sprint includes all the work necessary to achieve the Product Goal.
-- Potentially releasable product increment
+- Output: Potentially releasable product increment. The Sprint includes all the work necessary to achieve the Product Goal.
 
 **Sprint 0 Scrum Board**
 - https://app.zenhub.com/workspaces/raft-scrum-board-sprint-0-5fcc6dbe631e4100128a9ebe/board
